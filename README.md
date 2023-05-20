@@ -1,2 +1,2 @@
 # Xlogo-project
-New version of tha programming language Logo.
+New version of the Logo programming language.
